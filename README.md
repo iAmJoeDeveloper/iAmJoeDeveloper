@@ -16,8 +16,8 @@
         }
     },
     backend: ["NodeJS", "Express"],
-    databases: ["MySQL", "SQLServer", "PostgreSQL"],
-    others:["Git"]
+    databases: ["MongoDB, MySQL", "SQLServer", "PostgreSQL"],
+    others:["Git, Firebase"]
 };
 ```
 
