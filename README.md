@@ -9,14 +9,14 @@
   const JoeDev = {
 	roles: ["Front-end developer", "Backend-developer"],
 	skills:{
-    	frontend:{
-    	    js: ["Vanilla", "NextJS", "React.JS"],
-    	    css:["Pure", "TailwindCSS", "Bootstrap", "Styled-Components", "MaterialUI"],
-    	    tools: ["Figma",]
-        },
-	backend: ["NodeJS", "Express"],
-	databases: ["MongoDB, MySQL", "SQLServer", "PostgreSQL"],
-	others:["Git, Firebase"]
+	    	frontend:{
+	    	    js: ["Vanilla", "NextJS", "React.JS"],
+	    	    css:["Pure", "TailwindCSS", "Bootstrap", "Styled-Components", "MaterialUI"],
+	    	    tools: ["Figma",]
+	        },
+		backend: ["NodeJS", "Express"],
+		databases: ["MongoDB, MySQL", "SQLServer", "PostgreSQL"],
+		others:["Git, Firebase"]
     },
     
 };
