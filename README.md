@@ -19,8 +19,8 @@
 		others:["Git, Firebase"]
     },
     languages:{
-	english: 'C1',
-	spanish: 'Native'
+		english: "C1",
+		spanish: "Native"
     }
 };
 ```
