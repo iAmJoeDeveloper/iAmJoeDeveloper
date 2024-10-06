@@ -18,7 +18,10 @@
 		databases: ["MongoDB, MySQL", "SQLServer", "PostgreSQL"],
 		others:["Git, Firebase"]
     },
-    
+    languages:{
+	english: 'C1',
+	spanish: 'Native'
+    }
 };
 ```
 
