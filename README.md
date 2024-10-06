@@ -13,11 +13,12 @@
     	    js: ["Vanilla", "NextJS", "React.JS"],
     	    css:["Pure", "TailwindCSS", "Bootstrap", "Styled-Components", "MaterialUI"],
     	    tools: ["Figma",]
-        }
+        },
+	backend: ["NodeJS", "Express"],
+	databases: ["MongoDB, MySQL", "SQLServer", "PostgreSQL"],
+	others:["Git, Firebase"]
     },
-    backend: ["NodeJS", "Express"],
-    databases: ["MongoDB, MySQL", "SQLServer", "PostgreSQL"],
-    others:["Git, Firebase"]
+    
 };
 ```
 
